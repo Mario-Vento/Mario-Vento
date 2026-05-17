@@ -36,7 +36,9 @@ Apasionado por las arquitecturas Lakehouse, el procesamiento distribuido con PyS
 - 📧 alonso_vento@outlook.com
 - 📞 914 789 424
 
-### ✍️ Random Quote
+---
+
+## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
