@@ -12,10 +12,13 @@ Apasionado por las arquitecturas Lakehouse, el procesamiento distribuido con PyS
 
 ### ☁️ Cloud & Big Data
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003545?style=plastic&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white)
+
 
 ### 🤖 Machine Learning & Data Science
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
@@ -52,10 +55,17 @@ Apasionado por las arquitecturas Lakehouse, el procesamiento distribuido con PyS
 
 ---
 
-## 🎯 Actualmente
+## 🎯 Enfoque actual y próximos objetivos
 
-- Profundizando en **Ingeniería de Datos** con Azure y Databricks.
-- Aprendiendo **Ciberseguridad** aplicada a entornos de datos.
+Este año he definido una ruta de certificaciones para consolidar mis conocimientos y especializarme en el ecosistema de datos moderno:
+
+![Azure DP-900](https://img.shields.io/badge/Azure%20DP--900-0078D4?style=plastic&logo=microsoftazure&logoColor=white) **Azure Data Fundamentals** – para consolidar mis bases en la nube.
+
+![Databricks](https://img.shields.io/badge/Databricks%20Data%20Engineer-FF3621?style=plastic&logo=databricks&logoColor=white) **Databricks Data Engineer Associate** – para especializarme en procesamiento distribuido y Lakehouse.
+
+![DP-700](https://img.shields.io/badge/Fabric%20Data%20Engineer%20(DP--700)-5E2BFF?style=plastic&logo=microsoft&logoColor=white) **Microsoft Fabric Data Engineer Associate (DP-700)** – para acreditar mis habilidades en la plataforma unificada de datos de Microsoft.
+
+Estas certificaciones están alineadas con mi día a día y me permitirán aportar aún más valor en la construcción de soluciones de datos escalables.
 
 ---
 
