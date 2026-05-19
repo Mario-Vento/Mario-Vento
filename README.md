@@ -5,14 +5,7 @@ Apasionado por las arquitecturas Lakehouse, el procesamiento distribuido con PyS
 
 ---
 
-## 🔧 Tecnologías que uso
-
-- **Lenguajes**: Python (pandas, pyspark, scikit-learn), SQL
-- **Big Data & Cloud**: Azure, Databricks, AWS, Apache Spark
-- **Bases de datos**: SQL Server, MySQL, Cosmos
-- **CI/CD & Herramientas**: GitHub
-
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías que uso
 
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -37,13 +30,11 @@ Apasionado por las arquitecturas Lakehouse, el procesamiento distribuido con PyS
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
 ### ⚙️ DevOps & Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
 
 ### 📊 Visualización
